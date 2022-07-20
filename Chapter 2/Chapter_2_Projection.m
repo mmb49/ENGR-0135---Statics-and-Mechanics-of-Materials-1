@@ -1,7 +1,7 @@
 % Statics and Mechanics of Materials: An Example-based Approach
-% Matthew M. Barry and Samatha E. Wismer
+% Matthew M. Barry, Samatha E. Wismer and Lee A. Dosse
 % ISBN: 978-1-77412-230-3
-% Publisher: TopHat
+% Publisher: Top Hat
 
 % Chapter 2, Section 2.3.1 In-text Example
 
