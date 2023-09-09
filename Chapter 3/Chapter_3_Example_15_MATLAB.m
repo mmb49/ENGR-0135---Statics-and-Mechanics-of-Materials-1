@@ -16,7 +16,7 @@ r3 = [randi(10,1), 0, randi(10,1)];
 
 fprintf('r_{1} = [%i, %i, %i]\n',r1(1),r1(2),r1(3))
 fprintf('r_{2} = [%i, %i, %i]\n',r2(1),r2(2),r2(3))
-fprintf('r_{2} = [%i, %i, %i]\n\n',r2(1),r2(2),r2(3))
+fprintf('r_{2} = [%i, %i, %i]\n\n',r3(1),r3(2),r3(3))
 
 % Let us create three random, parallel force vectors:
 F1 = [0, randi(10,1), 0];
