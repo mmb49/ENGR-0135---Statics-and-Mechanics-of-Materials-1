@@ -43,4 +43,4 @@ r = [abs(MO(3))/norm(R), abs(MO(2))/norm(R), abs(MO(1))/norm(R)];
 % Lastly, we will check the newly calculated moment is the same as before:
 M = cross(r,R);
 
-fprintf('The resultant force R = [%i, %i, %i] acts on a moment arm r = [%f, %f, %f] producing a moment M = [%i, %i, %i]\n',R(1),R(2),R(3),r(1),r(2),r(3),M(1),M(2),M(3))
+fprintf('The resultant force is: R = [%i, %i, %i]\nIt acts on a moment arm: r = [%.3f, %.3f, %.3f]\nIt produces a moment M = [%.3f, %.3f, %.3f]\n',R(1),R(2),R(3),r(1),r(2),r(3),M(1),M(2),M(3))
