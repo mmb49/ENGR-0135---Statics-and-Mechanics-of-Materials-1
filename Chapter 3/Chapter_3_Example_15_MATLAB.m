@@ -25,7 +25,7 @@ F3 = [0, randi(10,1), 0];
 
 fprintf('F_{1} = [%i, %i, %i]\n',F1(1),F1(2),F1(3))
 fprintf('F_{2} = [%i, %i, %i]\n',F2(1),F2(2),F2(3))
-fprintf('F_{2} = [%i, %i, %i]\n\n',F2(1),F2(2),F2(3))
+fprintf('F_{2} = [%i, %i, %i]\n\n',F3(1),F3(2),F3(3))
 
 % We will calculate the moment of force about point O do to each individual
 % force acting on each respective moment arm:
